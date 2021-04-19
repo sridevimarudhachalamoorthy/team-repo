@@ -1,3 +1,6 @@
 
-# team-repo
-pythn division program
+python division program
+
+multiplication
+
+subtraction
